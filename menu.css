@@ -59,6 +59,10 @@
   background-color: rgb(72, 87, 106);
 }
 
+.el-menu--dark .el-menu-item.is-active {
+  color: #20a0ff;
+}
+
 .el-menu--horizontal{}
 
 .el-menu--horizontal .el-menu-item{
