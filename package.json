@@ -1,0 +1,23 @@
+{
+  "name": "IDG-theme",
+  "version": "0.0.1",
+  "description": "IDG-theme",
+  "main": "menu.css",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evildoerX/idg-theme.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "CH",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^3.9.3"
+  },
+  "files": [
+    "menu.css"
+  ]
+}
