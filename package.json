@@ -1,7 +1,7 @@
 {
-  "name": "IDG-theme",
+  "name": "idg-theme",
   "version": "0.0.1",
-  "description": "IDG-theme",
+  "description": "idg-theme",
   "main": "menu.css",
   "scripts": {
   },
